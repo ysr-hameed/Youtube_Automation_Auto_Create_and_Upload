@@ -162,7 +162,7 @@ To contribute:
 
 **Yasir Hameed**  
 - GitHub: [@ysr-hameed](https://github.com/ysr-hameed)  
-- YouTube Channel: [@quotezen](https://youtube.com/@quotezen)
+- YouTube Channel: [@quotezen](https://youtube.com/@quote_zen)
 
 ---
 
