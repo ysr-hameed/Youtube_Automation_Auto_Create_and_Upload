@@ -1,0 +1,14 @@
+Flask
+moviepy
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+httplib2
+requests
+numpy
+imageio
+imageio-ffmpeg
+Pillow
+tqdm
+ffmpeg-python
